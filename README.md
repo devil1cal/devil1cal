@@ -64,7 +64,7 @@ Here are some ideas to get you started:
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer" alt="git"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
   <a href="https://babeljs.io/" target="_blank" rel="noreferrer" alt="babel"> 
-    <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> 
+    <img src="https://user-images.githubusercontent.com/3025322/87547253-bf050400-c6a2-11ea-950a-280311bc6cc8.png" alt="babel" width="40" height="40"/> </a> 
   <a href="https://www.sketch.com/" target="_blank" rel="noreferrer" alt="sketch">
     <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer" alt="figma"> 
