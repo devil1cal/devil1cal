@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devil1cal&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devil1cal&layout=compact)](https://github.com/devil1cal/github-readme-stats)
 
 
 
