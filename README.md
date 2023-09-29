@@ -74,7 +74,7 @@ Here are some ideas to get you started:
   <a href="https://cloud.google.com" target="_blank" rel="noreferrer" alt="google cloud"> 
     <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>  
   <a href="https://nodejs.org" target="_blank" rel="noreferrer" alt="nodejs"> 
-    <img src="https://static-00.iconduck.com/assets.00/node-js-icon-227x256-913nazt0.png" alt="nodejs" width="40" height="40"/> </a> 
+    <img src="https://friconix.com/png/fi-cnsuxx-nodejs.png" alt="nodejs" width="40" height="40"/> </a> 
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer" alt="react native"> 
     <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> 
   <a href="https://redux.js.org" target="_blank" rel="noreferrer" alt="redux"> 
