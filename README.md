@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **devil1cal/devil1cal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -11,26 +9,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 
 -->
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devil1cal&layout=compact)](https://github.com/devil1cal/github-readme-stats)
-
-
-
-</br>
-<div style="display: flex;">
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="45" style="width: 45px; height: 45px; margin-right: 50px; margin-bottom: 0px;" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="45" style="width: 45px; height: 45px; margin-right: 50px; margin-bottom: 0px;" />
-  <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="45" style="width: 45px; height: 45px; margin-right: 50px; margin-bottom: 0px;" />
-  <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="45" style="width: 45px; height: 45px; margin-right: 50px; margin-bottom: 0px;" />
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="45" style="width: 45px; height: 45px; margin-right: 50px; margin-bottom: 0px;" />
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="45" style="width: 45px; height: 45px; margin-right: 50px; margin-bottom: 0px;" />
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="45" style="width: 45px; height: 45px; margin-right: 50px; margin-bottom: 0px;" />
-  <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="45" style="width: 45px; height: 45px; margin-right: 50px; margin-bottom: 0px;" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="45" style="width: 45px; height: 45px; margin-right: 50px; margin-bottom: 0px;" />
-  <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="45" style="width: 45px; height: 45px; margin-right: 0px; margin-bottom: 0px;" /></div>
-
-
 <h1 align="center">Hi 👋, I'm Damla</h1>
 <h3 align="center">I'm self taught developer.</h3>
 
@@ -43,14 +21,15 @@ Here are some ideas to get you started:
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/damlaumar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/damlaumar/" height="30" width="40" /></a>
 </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devil1cal&layout=compact)](https://github.com/devil1cal/github-readme-stats)
+
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
- <a href="https://www.python.org" target="_blank" rel="noreferrer" alt="python"> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer" alt="python"> 
     <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="45" style="width: 40px; height: 40px; margin-right: 50px; margin-bottom: 0px;" /> </a> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer" alt="react"> 
     <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="45" style="width: 40px; height: 40px; margin-right: 50px; margin-bottom: 0px;" /> </a> 
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer" alt="react native"> 
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" alt="html"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" alt="javascript"> 
@@ -76,7 +55,7 @@ Here are some ideas to get you started:
   <a href="https://nodejs.org" target="_blank" rel="noreferrer" alt="nodejs"> 
     <img src="https://friconix.com/png/fi-cnsuxx-nodejs.png" alt="nodejs" width="40" height="40"/> </a> 
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer" alt="react native"> 
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> 
+    <img src="https://miro.medium.com/v2/resize:fit:1024/1*xDi2csEAWxu95IEkaNdFUQ.png" alt="reactnative" width="40" height="40"/> </a> 
   <a href="https://redux.js.org" target="_blank" rel="noreferrer" alt="redux"> 
     <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="45" style="width: 40px; height: 40px; margin-right: 50px; margin-bottom: 0px;" /> </a>
  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer" alt="sql server"> 
