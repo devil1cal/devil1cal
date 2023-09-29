@@ -62,8 +62,6 @@ Here are some ideas to get you started:
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> 
   <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="45" style="width: 45px; height: 45px; margin-right: 50px; margin-bottom: 0px;" /> </a> 
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="40" style="width: 40px; height: 40px; margin-right: 50px; margin-bottom: 0px;" /></a>
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="45" style="width: 45px; height: 45px; margin-right: 50px; margin-bottom: 0px;"  </a> 
   <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> </p>
 
 
