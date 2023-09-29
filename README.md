@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Damla</h1>
-<h3 align="center">I'm a self taught developer.</h3>
+<h3 align="center">I'm a self taught developer from Turkey.</h3>
 
-- 🌱 I’m currently learning **Redux and polishing my React**
+- 🌱 I’m currently polishing **what I learned**
 
 <h3 align="left">You can reach me from my linkedin:</h3>
 <p align="left">
@@ -11,7 +11,7 @@
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devil1cal&layout=compact)](https://github.com/devil1cal/github-readme-stats)
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Things I code with :</h3>
 <p align="left"> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer" alt="python"> 
     <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="45" style="width: 40px; height: 40px; margin-right: 50px; margin-bottom: 0px;" /> </a> 
@@ -53,5 +53,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer" alt="postsql"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>  
+  <a href="https://wordpress.org/" target="_blank" rel="noreferrer" alt="wordpress"> 
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174881.png" alt="icon" width="45" style="width: 40px; height: 40px; margin-right: 50px; margin-bottom: 0px;" /> </a> 
+  
 </p>
 
